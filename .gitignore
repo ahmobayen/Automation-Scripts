@@ -176,3 +176,9 @@ cython_debug/
 # block log files and bac files
 *.log
 *.bak
+/.idea/.gitignore
+/.idea/Automation-Scripts.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/vcs.xml
